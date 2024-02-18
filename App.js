@@ -9,7 +9,6 @@
 const parent = React.createElement(
   "div",
   { id: "parent" },
-  "Test",
   React.createElement(
     "div",
     { id: "child" },
